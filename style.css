@@ -1,0 +1,45 @@
+html{
+    height: 100%;
+}
+body{
+    background-image: url(animation-echoesfromneals.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Zen Loop', cursive;
+}
+form{
+    background: rgb(190, 107, 51);
+    display: inline-block;
+    text-align: center;
+    border-radius: 13px;
+    padding: 15px;
+    box-shadow: 0 0 50px 20px rgb(160, 92, 158);
+
+}
+h1{
+    color: purple;
+    text-shadow:0 0 10px  rgb(255, 255, 255);
+    background: cyan;
+    width: 100px;
+    margin: auto;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+button{
+    font-family: 'Zen Loop', cursive;  
+    font-size: 30px;
+}
+input{
+    font-family: 'Zen Loop', cursive; 
+    font-size: 40px;
+    border-radius: 13px;
+    border: 5px solid rgba(197, 180, 21, 0.808);
+}
+button:hover{
+    background-color:rgb(0, 68, 255) ;
+}
+    
+
+/* задать шрифт кнопкам,инпутам */
+/* инпуту задать обводку и кнопкам сделать еффект по наведению точка */
